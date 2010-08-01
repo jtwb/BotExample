@@ -9,7 +9,7 @@ package botexample;
  *
  * @author lucashereld
  */
-public class Main
+public class BotExampleMain
 {
     /**
      * @param args the command line arguments
